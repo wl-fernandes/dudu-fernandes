@@ -1,25 +1,9 @@
-### Eee ai! 👋
+# Olá leitor, bem-vindo ao meu perfil
 
-Bem-vindo ao meu perfil aqui no Github. Sou conhecido como Washington, mas gosto que me chamem de Dudu e, talvez, sei que você pode estar pensando o por que de Dudu, né? Pois é, pode me cobrar depois que eu explico. 😋
+Construir um README bem detalhado é algo que nesse momento eu não tenho o que dizer.
 
-Prestes a concluir a graduação de Engenharia da Computação na instituição Uninassau, sou um desenvolvedor web front-end ao qual foco em trabalhar primeiramente com HTML, CSS e JavaScript. Entretanto estarei sempre em constante busca de conhecimento para implementar durante os meus projetos como novas tecnologias, gestão e fluxo de trabalho. No demais sou do tipo de dev que no final entende um pouco de tudo para por um projeto em prática. 
+De qualquer forma, meu GitHub é mais para hospedar os meus códigos e scripts que vou testando, e ver código e projetos de outras pessoas.
 
-Sobre um pouco da minha vida pessoal, gosto de ensinar o que aprendo, curto ficção científica e muito rock anos 2000. Se você tiver alguma dúvida sobre algum assunto fique a vontade de perguntar. 😎
+Se precisar entrar em contato comigo fique a vontade em me chamar pelo meu [LinkedIn](https://www.linkedin.com/in/washingtonluisfernandes/).
 
-Bom, com um tempo eu vou botar muitas ideias de projetos aqui no Github. Me siga aqui e nas minhas redes sociais depois para ficar por dentro do que estarei fazendo no meu dia a dia. 
-
-
-<!--
-**dudu-fernandes/dudu-fernandes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Assim que eu tiver um texto legal para esse README eu atualizo. Nesse momento o que eu só tenho a dizer é: chora recrutadores 😎✌️
